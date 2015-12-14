@@ -1,0 +1,1 @@
+{"alias":{"allowed":true,"created":[{"match":"test","value":"that\n"},{"match":"test","value":"that\n"},{"match":"that","value":"this\n"},{"match":"this","value":"that\n"},{"match":"nichole","value":"sexy\n"}]},"trigger":{"allowed":true,"created":[]},"timer":{"allowed":true,"created":[]}}
